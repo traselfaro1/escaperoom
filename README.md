@@ -1,3 +1,3 @@
 # escaperoom
 
-[An Internal Link](/Examen de redes.png)
+[An Internal Link](https://github.com/traselfaro1/escaperoom/blob/main/Examen%20final%20redes.png)
