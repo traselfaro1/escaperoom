@@ -11,5 +11,5 @@ Esta imagen tiene algo de información útil... lo descubres... busca en interne
 
 [Otro reto](https://informatica.iesquevedo.es/escape/app.apk)
 
-Que es un archivo tipo aab??? cuando lo descubras sabrás donde instalarlo.
+Que es un archivo tipo apk??? cuando lo descubras sabrás donde instalarlo.
 
