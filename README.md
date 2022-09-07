@@ -9,7 +9,8 @@
 Esta imagen tiene algo de información útil... lo descubres... busca en internet sobre EXIF
 
 
-[Otro reto](https://informatica.iesquevedo.es/escape/app.apk)
+[Otro reto](http://10.0.0.1:82)
 
+Para encontrar lo siguiente hay que comprar una entrada... mira el qr.
 Que es un archivo tipo apk??? cuando lo descubras sabrás donde instalarlo.
 
