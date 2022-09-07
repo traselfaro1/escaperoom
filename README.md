@@ -4,8 +4,6 @@
 
 [Parte 1](https://github.com/traselfaro1/escaperoom/blob/main/Resto5-Parte1.md)
 
-Esta imagen tiene algo de información útil... lo descubres... busca en internet sobre EXIF
-
 
 [Otro reto](http://10.0.0.1:82)
 
